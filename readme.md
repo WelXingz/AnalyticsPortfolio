@@ -15,7 +15,7 @@ Languages: SQL, Python
 Libraries: Pandas, NumPy  
 Databases: PostgreSQL / MySQL / SQL Server  
 Visualization: Power BI / Tableau  
-Other: Excel, Data Cleaning, Data Modeling,  
+Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT  
 
 📈 Goals  
 Build scalable data projects  
