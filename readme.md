@@ -19,7 +19,7 @@ Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT
 
 📈 Goals  
 Build scalable data projects  
-Bring real value to the data  
+Deliver real value from data
 
 📬 Contact  
 💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143/?skipRedirect=true  
