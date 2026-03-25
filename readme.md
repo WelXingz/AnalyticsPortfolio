@@ -31,7 +31,7 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 <p>- Weather distribution through all the capitals  </p>
 <p>- Comparative analysis between cities </p>
 
-<a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">👉 View Project</a>
+<a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">View Project</a>
 
 <h3>Goals:</h3>
 <p>- Build scalable data projects</p>
