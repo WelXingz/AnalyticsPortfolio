@@ -1,4 +1,4 @@
-📊 <h1>Data Analytics Portfolio</h1>
+<h1>📊 Data Analytics Portfolio</h1>
 
 #Welcome to my Data Analytics portfolio!  
 Here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.  
@@ -10,14 +10,14 @@ Here you will find a collection of projects where I apply data analysis techniqu
 
 I have experience working with data using tools like SQL, Python, and BI platforms. I enjoy transforming raw data into meaningful insights that help drive better decisions.  
 
-🛠️ <h1>Skills & Tools</h1>
+<h3>Skills & Tools</h3>
 Languages: SQL, Python  
 Libraries: Pandas, NumPy  
 Databases: PostgreSQL / MySQL / SQL Server  
 Visualization: Power BI / Tableau  
 Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT  
 
-📁 <h1>Projects</h1>
+<h3>Projects</h3>
 
 🌎 Real-Time Weather Data Pipeline & Dashboard
 
@@ -34,7 +34,7 @@ Description: Short explanation of the project and its goal.
 
 <a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">👉 View Project</a>
 
-📈 Goals  
+<h3>Goals</h3>
 Build scalable data projects  
 Deliver real value from data
 
