@@ -1,49 +1,78 @@
-<h1>📊 Data Analytics Portfolio</h1>
+# 👋 Hi, I'm Welington Albino
 
-<b>Welcome to my Data Analytics portfolio!</b>  
-Here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.  
+## 📊 Data Analytics Portfolio
 
-👤 About Me  
-💼 Data Analyst  
-📍 Location: Curitiba, Brazil  
-🎯 Focus: Data Analysis, Data Engineering, Business Insights, and Decision Support  
+Welcome to my Data Analytics portfolio!  
+Here you will find projects where I apply data analysis and data engineering techniques to solve real-world problems and generate business insights.
 
-I have experience working with data using tools like SQL, Python, and BI platforms. I enjoy transforming raw data into meaningful insights that help drive better decisions.  
+---
 
-<h3>Skills & Tools</h3>
-<p>Languages: SQL, Python</p> 
-<p>Libraries: Pandas, NumPy</p>
-<p>Databases: PostgreSQL / MySQL / SQL Server</p>    
-<p>Visualization: Power BI / Tableau</p>  
-<p>Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT</p>    
+## 👤 About Me
 
-<h3>Projects</h3>
+- 💼 Data Analyst  
+- 📍 Curitiba, Brazil  
+- 🎯 Focus: Data Analysis, Data Engineering, Business Insights & Decision Support  
 
-<b>🌎 Real-Time Weather Data Pipeline & Dashboard</b>
+I have experience working with data using tools like SQL, Python, and BI platforms.  
+I enjoy transforming raw data into meaningful insights that support better decision-making.
 
+---
 
-<p>🧾 Dataset: Open Weather API</p>
-<p>🛠️ Tools: PostgreSQL / Python / Tableau / GitHub Actions </p>
-<p>🔍 Key Insights:</p>
-<p>- Temperature patterns across Brazilian capitals</p>
-<p>- AVG, MAX and Min temperatures variation by day  </p>
-<p>- Weather distribution through all the capitals  </p>
-<p>- Comparative analysis between cities </p>
+## 🛠️ Skills & Tools
 
-<a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">👉 View Project</a>
+**Languages:**  
+SQL, Python  
 
-<h3>Goals:</h3>
-<p>- Build scalable data projects</p>
-<p>- Deliver real value from data</p>
+**Libraries:**  
+Pandas, NumPy  
 
+**Databases:**  
+PostgreSQL, MySQL, SQL Server  
 
+**Data Visualization:**  
+Power BI, Tableau  
 
+**Other:**  
+Excel, Data Cleaning, Data Modeling, ETL, DBT, AWS, GCP  
 
+---
 
-📬 <b>Contact</b> 
-💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143/?skipRedirect=true  
-📧 Email: welingtonalbino@hotmail.com  
-💻 GitHub: https://github.com/WelXingz  
+## 🚀 Projects
 
-⭐ <b>Notes</b>  
-This portfolio is constantly evolving as I continue building new projects in data analytics.
+### 🌎 Real-Time Weather Data Pipeline & Dashboard
+
+**🧾 Data Source:** OpenWeather API  
+**🛠️ Tools:** Python, PostgreSQL (Supabase), Tableau, GitHub Actions  
+
+**📌 Description:**  
+Built an automated ETL pipeline that extracts real-time weather data from an API, stores it in a cloud database, and visualizes insights through an interactive dashboard.
+
+**🔍 Key Insights:**
+- Temperature patterns across Brazilian capitals  
+- Daily average, maximum, and minimum temperature variations  
+- Weather condition distribution across regions  
+- Comparative analysis between cities  
+
+🔗 **Project Link:**  
+👉 https://github.com/WelXingz/OpenWeatherAnalytics
+
+---
+
+## 🎯 Goals
+
+- Build scalable and production-ready data projects  
+- Continuously improve data engineering and analytics skills  
+- Deliver real value through data-driven insights  
+
+---
+
+## 📬 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143  
+- 📧 Email: welingtonalbino@hotmail.com  
+- 💻 GitHub: https://github.com/WelXingz  
+
+---
+
+⭐ **Notes**  
+This portfolio is continuously evolving as I build new projects in data analytics and data engineering.
