@@ -4,7 +4,7 @@
 
 <p>Hi! My name is Welington and here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.</p>  
 
-👤 About Me  
+<b>👤 About Me</b>  
 💼 Data Analyst  
 📍 Location: Curitiba, Brazil  
 🎯 Focus: Data Analysis, Data Engineering, Business Insights, and Decision Support  
