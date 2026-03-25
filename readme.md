@@ -19,9 +19,8 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 
 <h3>Projects</h3>
 
-🌎 Real-Time Weather Data Pipeline & Dashboard
+<b>🌎 Real-Time Weather Data Pipeline & Dashboard</b>
 
-Description: Short explanation of the project and its goal.
 
 <p>🧾 Dataset: Open Weather API</p>
 <p>🛠️ Tools: PostgreSQL / Python / Tableau / GitHub Actions </p>
