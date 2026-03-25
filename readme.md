@@ -33,8 +33,8 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 <a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">👉 View Project</a>
 
 <h3>Goals:</h3>
-Build scalable data projects  
-Deliver real value from data
+<p>- Build scalable data projects</p>
+<p>- Deliver real value from data</p>
 
 
 
