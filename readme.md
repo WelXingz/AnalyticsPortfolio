@@ -1,6 +1,6 @@
 <h1>📊 Data Analytics Portfolio</h1>
 
-#Welcome to my Data Analytics portfolio!  
+<b>Welcome to my Data Analytics portfolio!</b>  
 Here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.  
 
 👤 About Me  
