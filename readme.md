@@ -23,10 +23,9 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 
 Description: Short explanation of the project and its goal.
 
-📊 Problem: [Business problem you solved]
-🧾 Dataset: Open Weather API
-🛠️ Tools: PostgreSQL / Python / Tableau / GitHub Actions 
-🔍 Key Insights:
+<p>🧾 Dataset: Open Weather API</p>
+<p>🛠️ Tools: PostgreSQL / Python / Tableau / GitHub Actions </p>
+<p>🔍 Key Insights:</p>
 - Temperature patterns across Brazilian capitals  
 - AVG, MAX and Min temperatures variation by day  
 - Weather distribution through all the capitals  
