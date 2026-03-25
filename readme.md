@@ -11,11 +11,11 @@ Here you will find a collection of projects where I apply data analysis techniqu
 I have experience working with data using tools like SQL, Python, and BI platforms. I enjoy transforming raw data into meaningful insights that help drive better decisions.  
 
 <h3>Skills & Tools</h3>
-Languages: SQL, Python  
-Libraries: Pandas, NumPy  
-Databases: PostgreSQL / MySQL / SQL Server  
-Visualization: Power BI / Tableau  
-Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT  
+Languages: SQL, Python    
+Libraries: Pandas, NumPy    
+Databases: PostgreSQL / MySQL / SQL Server    
+Visualization: Power BI / Tableau    
+Other: Excel, Data Cleaning, Data Modeling, Amazon AWS, Google GCP, ETL, DBT    
 
 <h3>Projects</h3>
 
