@@ -26,16 +26,20 @@ Description: Short explanation of the project and its goal.
 <p>🧾 Dataset: Open Weather API</p>
 <p>🛠️ Tools: PostgreSQL / Python / Tableau / GitHub Actions </p>
 <p>🔍 Key Insights:</p>
-- Temperature patterns across Brazilian capitals  
-- AVG, MAX and Min temperatures variation by day  
-- Weather distribution through all the capitals  
-- Comparative analysis between cities  
+<p>- Temperature patterns across Brazilian capitals</p>
+<p>- AVG, MAX and Min temperatures variation by day  </p>
+<p>- Weather distribution through all the capitals  </p>
+<p>- Comparative analysis between cities </p>
 
 <a href="https://github.com/WelXingz/OpenWeatherAnalytics/tree/main">👉 View Project</a>
 
-<h3>Goals</h3>
+<h3>Goals:</h3>
 Build scalable data projects  
 Deliver real value from data
+
+
+
+
 
 📬 Contact  
 💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143/?skipRedirect=true  
