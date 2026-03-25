@@ -1,7 +1,8 @@
 <h1>📊 Data Analytics Portfolio</h1>
 
 <b>Welcome to my Data Analytics portfolio!</b>  
-Hi, i'm Welington and here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.  
+
+<p>Hi! My name is Welington and here you will find a collection of projects where I apply data analysis techniques to solve real-world business problems.</p>  
 
 👤 About Me  
 💼 Data Analyst  
