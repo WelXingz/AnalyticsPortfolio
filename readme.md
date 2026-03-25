@@ -40,10 +40,10 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 
 
 
-📬 Contact  
+📬 <b>Contact</b> 
 💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143/?skipRedirect=true  
 📧 Email: welingtonalbino@hotmail.com  
 💻 GitHub: https://github.com/WelXingz  
 
-⭐ Notes  
+⭐ <b>Notes</b>  
 This portfolio is constantly evolving as I continue building new projects in data analytics.
