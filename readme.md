@@ -42,7 +42,7 @@ I have experience working with data using tools like SQL, Python, and BI platfor
 
 
 📬 <b>Contact</b> 
-💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143/?skipRedirect=true  
+💼 LinkedIn: https://www.linkedin.com/in/welington-albino-dos-santos-129403143  
 📧 Email: welingtonalbino@hotmail.com  
 💻 GitHub: https://github.com/WelXingz  
 
